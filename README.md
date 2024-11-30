@@ -1,7 +1,7 @@
 # 💻Middle Frontend Web Developer🛡️
 
 
-<img src="https://github.com/titohajili/Tito/blob/main/tito.gif" width="100%" />
+<img src="https://github.com/titohajili/titohajili/blob/main/tito.gif" width="100%" />
 
 <h1> ⚒️ About ⚒️ </h1>
 Hi! My name is David. I am a Full-Stack Web Developer and Cybersecurity Specialist with experience in building secure web applications. Skilled in front-end technologies like JavaScript, React, and PHP, and back-end frameworks such as Python, I focus on creating efficient, user-friendly solutions while ensuring robust security practices to protect digital environments.
