@@ -17,8 +17,8 @@ I am a dedicated Frontend Web Developer with a strong commitment to creating vis
   <a href="https://www.instagram.com/maga_hacili/"><img width="95" src="https://github.com/titohajili/titohajili/blob/main/f.png" alt="Vue JS" ></a> 
   <a href="https://www.instagram.com/maga_hacili/"><img width="119" src="https://github.com/titohajili/titohajili/blob/main/m.png" alt="Bootstrap5" ></a> 
   <a href="https://www.instagram.com/maga_hacili/"><img width="100" src="https://github.com/titohajili/titohajili/blob/main/n.png" alt="Tailwind CSS" ></a>
-  <a href="https://www.instagram.com/maga_hacili/"><img width="100" src="https://github.com/titohajili/titohajili/blob/main/e.png" alt="sql" ></a>
-  <a href="https://www.instagram.com/maga_hacili/"><img width="100" src="https://github.com/titohajili/titohajili/blob/main/i.png" alt="office" ></a>
+  <a href="https://www.instagram.com/maga_hacili/"><img width="74" src="https://github.com/titohajili/titohajili/blob/main/e.png" alt="sql" ></a>
+  <a href="https://www.instagram.com/maga_hacili/"><img width="152" src="https://github.com/titohajili/titohajili/blob/main/i.png" alt="office" ></a>
 
 <h2> ⚒️ My Additional Skills ⚒️ </h2>
 
