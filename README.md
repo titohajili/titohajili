@@ -1,11 +1,14 @@
-# 💻Middle Frontend Web Developer🛡️
+# 💻Junior Frontend Web Developer🛡️
 
 
 <img src="https://github.com/titohajili/titohajili/blob/main/subscribe2.gif" width="100%" />
 
-<h1> ⚒️ About ⚒️ </h1>
-Hi everyone! My name is Muhammed, and I’m a Middle Web Developer. I work with HTML, CSS, JavaScript, TypeScript, and technologies like Vue, React, Bootstrap, Tailwind, and Next.js. I create modern, user-friendly, and high-quality web applications.
+<h1> ⚒️ About Me ⚒️ </h1>
+
+I am a dedicated Frontend Web Developer with a strong commitment to creating visually appealing and user-friendly applications. Passionate about web technologies, I continuously seek to improve my skills and stay up to date with the latest industry trends. I take pride in delivering high-quality work on time and approach every project with responsibility and attention to detail. Always open to learning new technologies, I thrive in dynamic environments where innovation and creativity are valued 🚀 
+
 <h2> ⚒️ My Main Skills ⚒️ </h2>
+
   <a href="https://www.instagram.com/maga_hacili/"><img width="82" src="https://github.com/titohajili/blob/main/b.png" alt="CSS3" ></a> 
   <a href="https://www.instagram.com/maga_hacili/"><img width="92" src="https://github.com/titohajili/blob/main/c.png" alt="HTML5"  ></a> 
   <a href="https://www.instagram.com/maga_hacili/"><img width="116" src="https://github.com/titohajili/blob/main/g.png" alt="JavaScript"  ></a> 
