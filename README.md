@@ -9,14 +9,14 @@ I am a dedicated Frontend Web Developer with a strong commitment to creating vis
 
 <h2> ⚒️ My Main Skills ⚒️ </h2>
 
-  <a href="https://www.instagram.com/maga_hacili/"><img width="82" src="https://github.com/titohajili/blob/main/b.png" alt="CSS3" ></a> 
-  <a href="https://www.instagram.com/maga_hacili/"><img width="92" src="https://github.com/titohajili/blob/main/c.png" alt="HTML5"  ></a> 
-  <a href="https://www.instagram.com/maga_hacili/"><img width="116" src="https://github.com/titohajili/blob/main/g.png" alt="JavaScript"  ></a> 
-  <a href="https://www.instagram.com/maga_hacili/"><img width="117" src="https://github.com/titohajili/blob/main/o.png" alt="TypeScript" ></a> 
-  <a href="https://www.instagram.com/maga_hacili/"><img width="105" src="https://github.com/titohajili/blob/main/k.png" alt="React JS" ></a> 
-  <a href="https://www.instagram.com/maga_hacili/"><img width="95" src="https://github.com/titohajili/blob/main/f.png" alt="Vue JS" ></a> 
-  <a href="https://www.instagram.com/maga_hacili/"><img width="119" src="https://github.com/titohajili/blob/main/m.png" alt="Bootstrap5" ></a> 
-  <a href="https://www.instagram.com/maga_hacili/"><img width="100" src="https://github.com/titohajili/blob/main/n.png" alt="Tailwind CSS" ></a>
+  <a href="https://www.instagram.com/maga_hacili/"><img width="82" src="https://github.com/titohajili/titohajili/blob/main/b.png" alt="CSS3" ></a> 
+  <a href="https://www.instagram.com/maga_hacili/"><img width="92" src="https://github.com/titohajili/titohajili/blob/main/c.png" alt="HTML5"  ></a> 
+  <a href="https://www.instagram.com/maga_hacili/"><img width="116" src="https://github.com/titohajili/titohajili/blob/main/g.png" alt="JavaScript"  ></a> 
+  <a href="https://www.instagram.com/maga_hacili/"><img width="117" src="https://github.com/titohajili/titohajili/blob/main/o.png" alt="TypeScript" ></a> 
+  <a href="https://www.instagram.com/maga_hacili/"><img width="105" src="https://github.com/titohajili/titohajili/blob/main/k.png" alt="React JS" ></a> 
+  <a href="https://www.instagram.com/maga_hacili/"><img width="95" src="https://github.com/titohajili/titohajili/blob/main/f.png" alt="Vue JS" ></a> 
+  <a href="https://www.instagram.com/maga_hacili/"><img width="119" src="https://github.com/titohajili/titohajili/blob/main/m.png" alt="Bootstrap5" ></a> 
+  <a href="https://www.instagram.com/maga_hacili/"><img width="100" src="https://github.com/titohajili/titohajili/blob/main/n.png" alt="Tailwind CSS" ></a>
 
 <h2> ⚒️ My Additional Skills ⚒️ </h2>
 
