@@ -1,7 +1,7 @@
 # 💻Middle Frontend Web Developer🛡️
 
 
-<img src="https://github.com/titohajili/titohajili/blob/main/tito.gif?raw=true" width="100%" />
+<img src="https://github.com/titohajili/titohajili/blob/main/subscribe.gif" width="100%" />
 
 <h1> ⚒️ About ⚒️ </h1>
 Hi everyone! My name is Muhammed, and I’m a Middle Web Developer. I work with HTML, CSS, JavaScript, TypeScript, and technologies like Vue, React, Bootstrap, Tailwind, and Next.js. I create modern, user-friendly, and high-quality web applications.
